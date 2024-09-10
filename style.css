@@ -1,0 +1,23 @@
+.titulo {
+    color: blue;
+}
+ 
+body {
+    background-color: aquamarine;
+}
+.menino-ney{
+    margin: 0 auto;
+    padding: 0px 40px;
+    color: black;
+    font-size: 25px;
+    display: inline-block;
+}
+
+.tantofaz{
+    margin: 0px auto;
+    padding: 40px 48px;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    display: inline-block;
+    
+}
